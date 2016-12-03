@@ -137,8 +137,6 @@ jQuery(document).ready(function() {
 });
 
 
-function() {
-    "use strict";
 
 
     function initMap() {
@@ -272,6 +270,4 @@ function() {
             title: "Management Frontiers (Private) Limited"
         })
     }
-    google.maps.event.addDomListener(window, "load", b);
 
-}
