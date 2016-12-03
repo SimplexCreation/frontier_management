@@ -19,6 +19,7 @@ px      68    160    252    344    436    528    620    712    */
   /*--
 	wrapper Start 
 --*/
+
   #wrapper {
     text-align: center;
   }
@@ -162,6 +163,9 @@ px      68    160    252    */
   /*---------------------------------------------
 					Index Start 
 -----------------------------------------------*/
+#logotext{
+      font-size: inherit !important;  
+}
   .heading {
     padding-left: 0px;
   }
