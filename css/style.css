@@ -797,3 +797,20 @@ footer .footer-manu ul li a {
 footer .footer-manu ul li a:hover {
   color: #000;
 }
+.no-border-box.connect-to-page {
+  padding: 24px;
+  overflow: hidden;
+  position: relative;
+}
+
+.border-box {
+  height: 231px;!important;
+  margin: 0 auto 32px;
+  padding: 24px;
+  position: relative;
+  border-radius: 7px;
+  background-color: #fff;
+  border: 1px solid rgba(0,0,0,.1);
+  border-bottom-color: rgba(0,0,0,.13);
+  box-shadow: 0 3px 6px -1px rgba(0,0,0,.07);
+}
